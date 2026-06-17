@@ -1,0 +1,103 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = my avatar
+Full name
+Title
+
+Show Contacts
+
+Email
+email@example.com
+
+Phone
++1 (555) 000-0000
+
+Location
+City, Country
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+About text here...
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Service 1
+Description 1.
+
+alt = icon
+Service 2
+Description 2.
+
+
+# resume
+
+Resume
+
+Education
+
+Institution
+Year Range
+Description
+
+Experience
+
+Job Title
+Year Range
+Description
+
+My skills
+
+Skill 1
+Level
+Skill 2
+Level
+
+
+# portfolio
+
+Portfolio
+
+All
+Category 1
+Category 2
+
+Select category
+All
+Category 1
+Category 2
+
+alt = project
+Project 1
+Category
+
+alt = project
+Project 2
+Category
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
